@@ -127,3 +127,31 @@ Create a new React application and connect it to your server:
 - add a delete button to each displayed user that will remove it from the server.
 - add forms to add and update data.
 - Style the list of users however you see fit.
+
+
+<!-- {
+  "name": "node-api1-project",
+  "version": "1.0.0",
+  "description": "- Building a RESTful API.\r - Performing CRUD operations.\r - Writing API endpoints.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "server": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Istott/node-api1-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Istott/node-api1-project/issues"
+  },
+  "homepage": "https://github.com/Istott/node-api1-project#readme"
+} -->
